@@ -47,10 +47,4 @@ A seção de Análise Comparativa no notebook apresenta os resultados detalhados
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests para melhorias e novas funcionalidades.
 
-## Licença
 
-[Adicione aqui a informação sobre a licença do seu projeto, se houver]
-
-## Contato
-
-[Adicione aqui suas informações de contato, se desejar]
